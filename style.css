@@ -1,0 +1,30 @@
+body {
+  background-image: url("portfoliobackgroundcopy.jpg");
+}
+
+h1 {
+  font-family: 'Signpainter', sans-serif;
+  font-size: 80px;
+  color: #503767;
+  width: 30%;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  color: #3d00a0;
+  font-weight: 400;
+  width: 30%;
+  margin: 0 auto;
+}
+
+h3 {
+  font-family: 'Georgia', sans-serif;
+  color: white;
+}
+
+ul {
+  font-weight: bold;
+  color: #4652b0;
+}
